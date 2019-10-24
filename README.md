@@ -8,7 +8,7 @@ https://check-host.net/check-report/b444915kbb3
 
 This script is for educationnal purposes only!! Use it on your own responsability.
 
-Requirement:
+#Requirement:
 
 -bane
 
@@ -24,8 +24,12 @@ sudo pip install bane
 
 
 
-Usage:
+#Usage:
 
 cd lulzer
 
 python lulzer.py
+
+
+#P.S:
+Don't forget to disble Tor if you are using it or the tool won't be able to fetch the bots!!
